@@ -2,19 +2,13 @@
 
 ### Welcome to VoidUI Tiramisu Project
 ### Based on Android Open Source Releases 13.x
+### No Longer Supported, please review @VoidUI-Andromeda
 
 Project is based on Pixel Experience Plus version and getting improvements and new features from time to time
 
-## Repositories that you may need to check get started with our Project:
+## Repositories that you may need to check get started with our Project [aosp-13 branch]:
 - [Platform Manifest](https://github.com/VoidUI-Tiramisu/manifest)
 - [Our Official Devices](https://github.com/VoidUI-Devices)
-
-## Additionally - Can check and improve Translations to your main Language:
-- [Crowdin Settings Translations](https://crwd.in/voidui-tiramisu)
-- [Crowdin Frameworks Translations](https://crwd.in/voidui-tiramisu-frameworks)
-- [Crowdin Updater Translations](https://crwd.in/voidui-tiramisu-updater/)
-- [Crowdin GameSpace Translations](https://crwd.in/voidui-tiramisu-gamespace/)
-- [Crowdin DeviceSettings Translations](https://crwd.in/VoidUI-DeviceSettings/)
 
 Now that we mentioned the important repositories, now please check that you have all improvements picked from your end:
 
@@ -24,7 +18,6 @@ Rom Supports compiling Userbuild, Enforcing, without Neverallows, so be sure tha
 
 ## Additionally 
 - Rom is having support of LiveDisplay v2.1, DeviceSettings for Parts and Including latest upstreams, so don't forget to check for new available features to add
-- Also, VoidUI Supports Snapdragon LLVM Compiler, check [**Snapdragon Clang Repository**](https://gitlab.com/VoidUI/snapdragon-clang) repository
 
 ## Our Telegram Support Group:
 - [**VoidUI Official Group**](https://t.me/VoidUI)
